@@ -29,7 +29,6 @@ Windows-приложение для профилей питания, огран�
 | [Vilod Tools](https://github.com/Antivilod/vilod-tools) | SHA-256, сравнение папок, дубликаты, проверка JSON/CSV и маскирование типовых данных в логах | Python 3.10+, команды в README |
 | [Vilod Test Report](https://github.com/Antivilod/vilod-test-report) | Версия 0.2.0: HTML-отчёт из JSON с дефектами, окружением и статусами | В комплекте есть вымышленный пример |
 | [Vilod Subtitle Check](https://github.com/Antivilod/vilod-subtitle-check) | Версия 0.2.0: структура и таймкоды SRT, необязательные пороги длины строки и скорости чтения | В комплекте есть пример субтитров |
-
 | [Vilod JSON Diff](https://github.com/Antivilod/vilod-json-diff) | Версия 0.1.0: сравнивает JSON, по умолчанию выводит только количество изменений без значений | Два вымышленных JSON-примера |
 | [Vilod Text Check](https://github.com/Antivilod/vilod-text-check) | Версия 0.1.0: проверяет пробелы, переносы строк, BOM и длинные тире в UTF-8 | Только чтение, замечания в JSON |
 
